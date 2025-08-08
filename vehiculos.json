@@ -1,15 +1,5 @@
 [
   {
-    "codigo": 101,
-    "categoria_tienda": "vehiculo",
-    "marca": "Mercedes-Benz",
-    "modelo": "Clase S 580",
-    "categoria": "Sedan de Lujo",
-    "precio_venta": 115000,
-    "imagen": "https://images.dealer.com/ddc/vehicles/2023/Mercedes-Benz/S-Class/Sedan/perspective/front-left/2023_24.png",
-    "colores_disponibles": ["#000000", "#C0C0C0", "#FFFFFF"]
-  },
-  {
     "codigo": 104,
     "categoria_tienda": "vehiculo",
     "marca": "Audi",
@@ -130,3 +120,4 @@
     "colores_disponibles": ["#000000", "#D3D3D3"]
   }
 ]
+
