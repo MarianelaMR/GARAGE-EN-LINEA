@@ -7,7 +7,7 @@
     "categoria": "Sedan de Lujo",
     "tipo": "Sedan",
     "precio_venta": 115000,
-    "imagen": "https://images.dealer.com/ddc/vehicles/2023/Mercedes-Benz/S-Class/Sedan/perspective/front-left/2023_24.png",
+    "imagen": "https://media.revistagq.com/photos/5df8ca2c6ceba40008e6e58c/master/w_1600,c_limit/audi-a8-2018-dm-135_1440x655c.jpg",
     "colores_disponibles": ["#000000", "#C0C0C0", "#FFFFFF"]
   },
   {
@@ -18,7 +18,7 @@
     "categoria": "SUV",
     "tipo": "SUV",
     "precio_venta": 75000,
-    "imagen": "https://www.mercedes-benz-durham.ca/wp-content/uploads/2023/10/2024-Mercedes-Benz-GLE-SUV-Coupe-design.png",
+    "imagen": "https://media.revistagq.com/photos/5df8cfdd6ceba40008e6e590/16:9/w_1920,c_limit/GettyImages-879766344.jpg",
     "colores_disponibles": ["#36454F", "#808080", "#E5E4E2"]
   },
   {
@@ -29,7 +29,7 @@
     "categoria": "Deportivo",
     "tipo": "Coupe",
     "precio_venta": 325000,
-    "imagen": "https://www.topgear.com/sites/default/files/2021/11/1-Mercedes-AMG-GT-Black-Series.png",
+    "imagen": "https://media.revistagq.com/photos/5df8c256014c01000854ea13/master/w_1600,c_limit/bmw-serie-7-todos-los-detalles-p90333104_highres_1920x1600c.jpg",
     "colores_disponibles": ["#FF4500", "#000000"]
   },
   {
