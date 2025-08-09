@@ -1,0 +1,91 @@
+[
+  {
+    "codigo": 101,
+    "categoria_tienda": "vehiculo",
+    "marca": "Mercedes-Benz",
+    "modelo": "Clase S 580",
+    "categoria": "Sedan de Lujo",
+    "tipo": "Sedan",
+    "precio_venta": 115000,
+    "imagen": "https://images.dealer.com/ddc/vehicles/2023/Mercedes-Benz/S-Class/Sedan/perspective/front-left/2023_24.png",
+    "colores_disponibles": ["#000000", "#C0C0C0", "#FFFFFF"]
+  },
+  {
+    "codigo": 102,
+    "categoria_tienda": "vehiculo",
+    "marca": "Mercedes-Benz",
+    "modelo": "GLE 450",
+    "categoria": "SUV",
+    "tipo": "SUV",
+    "precio_venta": 75000,
+    "imagen": "https://www.mercedes-benz-durham.ca/wp-content/uploads/2023/10/2024-Mercedes-Benz-GLE-SUV-Coupe-design.png",
+    "colores_disponibles": ["#36454F", "#808080", "#E5E4E2"]
+  },
+  {
+    "codigo": 103,
+    "categoria_tienda": "vehiculo",
+    "marca": "Mercedes-AMG",
+    "modelo": "GT Black Series",
+    "categoria": "Deportivo",
+    "tipo": "Coupe",
+    "precio_venta": 325000,
+    "imagen": "https://www.topgear.com/sites/default/files/2021/11/1-Mercedes-AMG-GT-Black-Series.png",
+    "colores_disponibles": ["#FF4500", "#000000"]
+  },
+  {
+    "codigo": 201,
+    "categoria_tienda": "pasola",
+    "marca": "Vespa",
+    "modelo": "Primavera 150",
+    "categoria": "Scooter Clásico",
+    "precio_venta": 5499,
+    "imagen": "https://www.cycleworld.com/resizer/pMph-eD9e1eKj6Fw_1_w-rIuEaA=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/H54QWUAYSNB53K4EM35RBD2VEE.jpg",
+    "colores_disponibles": ["#ADD8E6", "#FFC0CB", "#FFFFFF"]
+  },
+  {
+    "codigo": 202,
+    "categoria_tienda": "pasola",
+    "marca": "Yamaha",
+    "modelo": "XMAX 300",
+    "categoria": "Maxi Scooter",
+    "precio_venta": 6099,
+    "imagen": "https://dd5394a0b8ca8e97ba29-abf76f3d91a212551ab6c7d4e9b59cf3.ssl.cf1.rackcdn.com/content/staging/2024-yamaha-xmax-7-1.png",
+    "colores_disponibles": ["#36454F", "#00008B"]
+  },
+  {
+    "codigo": 301,
+    "categoria_tienda": "articulo",
+    "nombre_articulo": "Neumáticos Michelin Pilot Sport 4S",
+    "categoria": "Neumáticos",
+    "precio_venta": 350,
+    "imagen": "https://www.le-mans-88.com/2821-large_default/michelin-pilot-sport-4s.jpg",
+    "colores_disponibles": []
+  },
+  {
+    "codigo": 302,
+    "categoria_tienda": "articulo",
+    "nombre_articulo": "Kit de Herramientas Profesional (120 Pcs)",
+    "categoria": "Herramientas",
+    "precio_venta": 199.99,
+    "imagen": "https://m.media-amazon.com/images/I/81iP4OaY2oL._AC_SL1500_.jpg",
+    "colores_disponibles": []
+  },
+  {
+    "codigo": 303,
+    "categoria_tienda": "articulo",
+    "nombre_articulo": "Aceite Sintético Mobil 1 5W-30 (5L)",
+    "categoria": "Mantenimiento",
+    "precio_venta": 45.50,
+    "imagen": "https://www.k-Tuned.ca/cdn/shop/products/mobil-1-5w-30-full-synthetic-motor-oil-5l.jpg?v=1680544521",
+    "colores_disponibles": []
+  },
+  {
+    "codigo": 304,
+    "categoria_tienda": "articulo",
+    "nombre_articulo": "Kit de Limpieza Premium Meguiar's",
+    "categoria": "Cuidado Exterior",
+    "precio_venta": 89.99,
+    "imagen": "https://m.media-amazon.com/images/I/81sA48G2SBL.jpg",
+    "colores_disponibles": []
+  }
+]
